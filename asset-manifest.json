@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.25df1002.chunk.css",
-    "main.js": "/static/js/main.50559a58.chunk.js",
-    "main.js.map": "/static/js/main.50559a58.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.319a99ea.js",
-    "runtime-main.js.map": "/static/js/runtime-main.319a99ea.js.map",
-    "static/js/2.9e85595a.chunk.js": "/static/js/2.9e85595a.chunk.js",
-    "static/js/2.9e85595a.chunk.js.map": "/static/js/2.9e85595a.chunk.js.map",
-    "static/js/3.53860c56.chunk.js": "/static/js/3.53860c56.chunk.js",
-    "static/js/3.53860c56.chunk.js.map": "/static/js/3.53860c56.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.25df1002.chunk.css.map": "/static/css/main.25df1002.chunk.css.map",
-    "static/js/2.9e85595a.chunk.js.LICENSE.txt": "/static/js/2.9e85595a.chunk.js.LICENSE.txt"
+    "main.css": "/grid-app/static/css/main.25df1002.chunk.css",
+    "main.js": "/grid-app/static/js/main.50559a58.chunk.js",
+    "main.js.map": "/grid-app/static/js/main.50559a58.chunk.js.map",
+    "runtime-main.js": "/grid-app/static/js/runtime-main.512a4a49.js",
+    "runtime-main.js.map": "/grid-app/static/js/runtime-main.512a4a49.js.map",
+    "static/js/2.f37118a4.chunk.js": "/grid-app/static/js/2.f37118a4.chunk.js",
+    "static/js/2.f37118a4.chunk.js.map": "/grid-app/static/js/2.f37118a4.chunk.js.map",
+    "static/js/3.53860c56.chunk.js": "/grid-app/static/js/3.53860c56.chunk.js",
+    "static/js/3.53860c56.chunk.js.map": "/grid-app/static/js/3.53860c56.chunk.js.map",
+    "index.html": "/grid-app/index.html",
+    "static/css/main.25df1002.chunk.css.map": "/grid-app/static/css/main.25df1002.chunk.css.map",
+    "static/js/2.f37118a4.chunk.js.LICENSE.txt": "/grid-app/static/js/2.f37118a4.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.319a99ea.js",
-    "static/js/2.9e85595a.chunk.js",
+    "static/js/runtime-main.512a4a49.js",
+    "static/js/2.f37118a4.chunk.js",
     "static/css/main.25df1002.chunk.css",
     "static/js/main.50559a58.chunk.js"
   ]
